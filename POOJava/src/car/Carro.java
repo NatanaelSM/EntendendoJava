@@ -1,5 +1,7 @@
+package car;
+
 //classe filha/especializada de veiculos (extends veiculo)
-public class Carro extends Veiculo{
+public class Carro extends Veiculo {
     //Encapsulamento(Os métodos para ligar o carro foram "escondidos" para o condutor)
     public void ligar (){
         conferirCambio();

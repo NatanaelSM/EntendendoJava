@@ -1,3 +1,5 @@
+package car;
+
 //Classe genérica (Herança de características)
 //É abstrata pois indica as classes filhas que devem reescrever os métodos.
 public abstract class Veiculo {

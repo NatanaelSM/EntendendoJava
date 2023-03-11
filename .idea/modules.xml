@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ControleCandidato/ControleCandidato.iml" filepath="$PROJECT_DIR$/ControleCandidato/ControleCandidato.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/EntendendoJava.iml" filepath="$PROJECT_DIR$/.idea/EntendendoJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enum/Enum.iml" filepath="$PROJECT_DIR$/Enum/Enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExemploPacotes/ExemploPacotes.iml" filepath="$PROJECT_DIR$/ExemploPacotes/ExemploPacotes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GetSet/GetSet.iml" filepath="$PROJECT_DIR$/GetSet/GetSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mensager/Mensager.iml" filepath="$PROJECT_DIR$/Mensager/Mensager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POOJava/POOJava.iml" filepath="$PROJECT_DIR$/POOJava/POOJava.iml" />
+    </modules>
+  </component>
+</project>
